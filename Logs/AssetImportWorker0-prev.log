@@ -1,0 +1,314 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22621.1105; Version 2009; 64bit' Language: 'en' Physical Memory: 40697 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/gabri/OneDrive/Documentos/Projects Unity/Teste_SysAlt
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51313
+Successfully changed project path to: C:/Users/gabri/OneDrive/Documentos/Projects Unity/Teste_SysAlt
+C:/Users/gabri/OneDrive/Documentos/Projects Unity/Teste_SysAlt
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/gabri/OneDrive/Documentos/Projects Unity/Teste_SysAlt/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   
+    VRAM:     3990 MB
+    Driver:   27.21.14.6235
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56860
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002305 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 54.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.185 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001529 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 3.419500 ms (FindLiveObjects: 0.311000 ms CreateObjectMapping: 0.099400 ms MarkObjects: 2.824400 ms  DeleteObjects: 0.183000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Assets/Quadro2_ComprarFundo_Retângulo 6.png
+  artifactKey: Guid(9079f132bf088b043a0a763b375d274a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro2_ComprarFundo_Retângulo 6.png using Guid(9079f132bf088b043a0a763b375d274a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0b795633c70bf9d3d3d4e1a3677a7d') in 0.161493 seconds
+  Import took 0.165460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Assets/Botao_X_Layer 128.png
+  artifactKey: Guid(5d63e86b2d6075d4cb605d8fb53e5b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Botao_X_Layer 128.png using Guid(5d63e86b2d6075d4cb605d8fb53e5b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3745051abf2ad7e853289176f34f68') in 0.026216 seconds
+  Import took 0.031046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Assets/Quadro1_Borda_Rectangle 7 copy 3.png
+  artifactKey: Guid(c7abf0eba0fae6e4d924ed11b124cb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro1_Borda_Rectangle 7 copy 3.png using Guid(c7abf0eba0fae6e4d924ed11b124cb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15965f4893ba0086383b668b04b18fa9') in 0.021465 seconds
+  Import took 0.025240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Assets/Quadro1_QuadroItens_Rectangle 4 copy 3.png
+  artifactKey: Guid(89c496013c649294d8437ed391058272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro1_QuadroItens_Rectangle 4 copy 3.png using Guid(89c496013c649294d8437ed391058272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61fc30096bbf3e6856b4decffc1791e1') in 0.013934 seconds
+  Import took 0.018495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Assets/Frutas_banana.png
+  artifactKey: Guid(f344576121e1f6b4cb3ff8e833e26d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Frutas_banana.png using Guid(f344576121e1f6b4cb3ff8e833e26d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67cbb2752a8c704de034e3ade95a7e15') in 0.014531 seconds
+  Import took 0.018312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Assets/Quadro1_Fundo_Rectangle 7.png
+  artifactKey: Guid(5c42058491f3eb1489f3d69597767178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro1_Fundo_Rectangle 7.png using Guid(5c42058491f3eb1489f3d69597767178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c126dba2c33c1e548184e5b4e52024ef') in 0.013693 seconds
+  Import took 0.017066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Assets/Botao_X_Dentro_Rectangle 8.png
+  artifactKey: Guid(6c1404a4b19d7eb449404292b865fafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Botao_X_Dentro_Rectangle 8.png using Guid(6c1404a4b19d7eb449404292b865fafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ca0816e68e5f52757e8e7887b7f106') in 0.011076 seconds
+  Import took 0.014801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Assets/Quadro1_FaixaPreco_Layer 126 copy 2.png
+  artifactKey: Guid(2c907408206dfdd45801c627ed437ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro1_FaixaPreco_Layer 126 copy 2.png using Guid(2c907408206dfdd45801c627ed437ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308cfcfd999b599a8ef78b5ad8773275') in 0.012063 seconds
+  Import took 0.015683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Assets/Frutas_laranja.png
+  artifactKey: Guid(4f9ab6c79db3fe448adbdfd37b154f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Frutas_laranja.png using Guid(4f9ab6c79db3fe448adbdfd37b154f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54cbfdb043a9ea2b16ccb6645cb1e29e') in 0.013795 seconds
+  Import took 0.018254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Assets/Quadro1_QuadroMaiorBorda_Rectangle 4 copy 8.png
+  artifactKey: Guid(e133207d0f673fd4f9fe5dbdb7da9e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro1_QuadroMaiorBorda_Rectangle 4 copy 8.png using Guid(e133207d0f673fd4f9fe5dbdb7da9e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d16edff486efc707952dd1c2098ab5') in 0.012455 seconds
+  Import took 0.016266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Assets/Quadro2_ComprarBorda_Retângulo 6 copy.png
+  artifactKey: Guid(9353c6b42ff092245ac3f1f35c3b48d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro2_ComprarBorda_Retângulo 6 copy.png using Guid(9353c6b42ff092245ac3f1f35c3b48d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ecf9e8d09cf1d531d8daefb823b757') in 0.012384 seconds
+  Import took 0.017048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000694 seconds.
+  path: Assets/Assets/Settings_Primeiro.png
+  artifactKey: Guid(cf7685dacf6b548449f3c6c452991c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Settings_Primeiro.png using Guid(cf7685dacf6b548449f3c6c452991c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f7a15603bab9796af10fa6c40b82ea9') in 0.013614 seconds
+  Import took 0.018273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/Assets/Quadro1_FaixaSuperior_Layer 119.png
+  artifactKey: Guid(09934a2c69f429b44b88780e83c8d4a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro1_FaixaSuperior_Layer 119.png using Guid(09934a2c69f429b44b88780e83c8d4a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edfc4f747d9f9cbea0b30c8702d4d2d5') in 0.014568 seconds
+  Import took 0.018998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Assets/Assets/Quadro2_Borda_Rectangle 7 copy 5.png
+  artifactKey: Guid(1fc33ce6d12d8b34b8c573cde34e8966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro2_Borda_Rectangle 7 copy 5.png using Guid(1fc33ce6d12d8b34b8c573cde34e8966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60a2dcb0521a7d3937fca4414e08c6e8') in 0.017316 seconds
+  Import took 0.023183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Assets/Quadro2_FaixaValores_Layer 121.png
+  artifactKey: Guid(4fd1a65241f87294aadd55ba1da2befb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro2_FaixaValores_Layer 121.png using Guid(4fd1a65241f87294aadd55ba1da2befb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '045ebdf806a417e60dd8e10077118121') in 0.016101 seconds
+  Import took 0.020597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Assets/Quadro2_Fundo_Rectangle 7 copy 2.png
+  artifactKey: Guid(9ea1577a7709e5e49971fe1f73e41466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro2_Fundo_Rectangle 7 copy 2.png using Guid(9ea1577a7709e5e49971fe1f73e41466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff08b67a38190e73ae481d16221a4523') in 0.014596 seconds
+  Import took 0.017618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Assets/Settings_2.png
+  artifactKey: Guid(23136d102bbcd134c82b8a5b18e5f2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Settings_2.png using Guid(23136d102bbcd134c82b8a5b18e5f2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85efeb3b9795f99366358185590b88d') in 0.012450 seconds
+  Import took 0.017143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Assets/Botao_X_Borda_Rectangle 8 copy.png
+  artifactKey: Guid(1b63c9c764877c549844f6b74329974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Botao_X_Borda_Rectangle 8 copy.png using Guid(1b63c9c764877c549844f6b74329974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5419e88dde52f22402f14f9b44992d10') in 0.014000 seconds
+  Import took 0.017487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Assets/Frutas_refri.png
+  artifactKey: Guid(8a9a9303ff19e094e8c9914cfc3c9215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Frutas_refri.png using Guid(8a9a9303ff19e094e8c9914cfc3c9215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ea9600885389d3e1f611dffd9bf032') in 0.014725 seconds
+  Import took 0.019290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Assets/Settings_Baixo.png
+  artifactKey: Guid(b424e264820858940a9c1218c748636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Settings_Baixo.png using Guid(b424e264820858940a9c1218c748636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83afe19a5a66618a7a6bc10e4ccf192') in 0.014661 seconds
+  Import took 0.018926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Assets/Frutas_sorvete.png
+  artifactKey: Guid(52c916d4b89c01144bf8b48a72201575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Frutas_sorvete.png using Guid(52c916d4b89c01144bf8b48a72201575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c52c31ccf97e3680ad63e731cefb096') in 0.014443 seconds
+  Import took 0.019168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Assets/Frutas_maça.png
+  artifactKey: Guid(c5f2788e6e62e534baee42d826556590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Frutas_maça.png using Guid(c5f2788e6e62e534baee42d826556590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93ff97e0a2c0c20a278b88708f8c48a7') in 0.016725 seconds
+  Import took 0.019893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Assets/Quadro2_Faixa_Layer 119 copy.png
+  artifactKey: Guid(ffe5091052b729c46967338f4f9a2323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Quadro2_Faixa_Layer 119 copy.png using Guid(ffe5091052b729c46967338f4f9a2323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf0226b563ab06dcc9b858615b08648') in 0.014919 seconds
+  Import took 0.019642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/Assets/Frutas_burguer.png
+  artifactKey: Guid(f5819e41c6e58454490d94987451a257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Frutas_burguer.png using Guid(f5819e41c6e58454490d94987451a257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b02d380a7c0074e7997a2bc20aefa2') in 0.015714 seconds
+  Import took 0.019661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.516587 seconds.
+  path: Assets/Assets/Botao_X_Layer 128.png
+  artifactKey: Guid(5d63e86b2d6075d4cb605d8fb53e5b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Botao_X_Layer 128.png using Guid(5d63e86b2d6075d4cb605d8fb53e5b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5d45e7790b83f757de093b0a271080') in 0.013721 seconds
+  Import took 0.017424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011196 seconds.
+  path: Assets/Assets/Botao_X_Layer 128.png
+  artifactKey: Guid(5d63e86b2d6075d4cb605d8fb53e5b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Botao_X_Layer 128.png using Guid(5d63e86b2d6075d4cb605d8fb53e5b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5d45e7790b83f757de093b0a271080') in 0.013465 seconds
+  Import took 0.018333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.083161 seconds.
+  path: Assets/Assets/Botao_X_Dentro_Rectangle 8.png
+  artifactKey: Guid(6c1404a4b19d7eb449404292b865fafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Botao_X_Dentro_Rectangle 8.png using Guid(6c1404a4b19d7eb449404292b865fafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f378bb9382f01ad017808de7a868c0') in 0.012466 seconds
+  Import took 0.016501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009719 seconds.
+  path: Assets/Assets/Botao_X_Dentro_Rectangle 8.png
+  artifactKey: Guid(6c1404a4b19d7eb449404292b865fafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Botao_X_Dentro_Rectangle 8.png using Guid(6c1404a4b19d7eb449404292b865fafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f378bb9382f01ad017808de7a868c0') in 0.011480 seconds
+  Import took 0.016199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.914812 seconds.
+  path: Assets/Assets/Botao_X_Borda_Rectangle 8 copy.png
+  artifactKey: Guid(1b63c9c764877c549844f6b74329974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Botao_X_Borda_Rectangle 8 copy.png using Guid(1b63c9c764877c549844f6b74329974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc1c953c712025a231fe09c84e47ff3d') in 0.012812 seconds
+  Import took 0.017816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060480 seconds.
+  path: Assets/Assets/Botao_X_Borda_Rectangle 8 copy.png
+  artifactKey: Guid(1b63c9c764877c549844f6b74329974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Botao_X_Borda_Rectangle 8 copy.png using Guid(1b63c9c764877c549844f6b74329974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc1c953c712025a231fe09c84e47ff3d') in 0.013107 seconds
+  Import took 0.016800 seconds .
+
